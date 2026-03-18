@@ -9,7 +9,7 @@ Em desenvolvimento
 - NetBeans
 - GitHub
 
-##Time de desenvolvedores
+## Time de desenvolvedores
 - João Victor
 
 ## Objetivo do software
