@@ -1,21 +1,21 @@
 # MyTasksPI
 
-@@ Status do projeto
+## Status do projeto
 Em desenvolvimento
 
-@@ Tecnologias utilizadas
+## Tecnologias utilizadas
 - Java
 - MySQL
 - NetBeans
 - GitHub
 
-@@ Time de desenvolvedores
+##Time de desenvolvedores
 - João Victor
 
-@@ Objetivo do software
+## Objetivo do software
 Sistema desktop para gerenciamento de tarefas, permitindo cadastro de usuários e organização de atividades.
 
-@@ Funcionalidades do sistema
+## Funcionalidades do sistema
 - Cadastro de usuários
 - Login de usuários
 - Criação de tarefas
